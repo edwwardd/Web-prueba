@@ -13,7 +13,7 @@ body {
 }
 
 header {
-  background-color: #cb0e0e;
+  background-color: #170dde;
   color: white;
   text-align: center;
   padding: 60px 20px;
@@ -66,3 +66,4 @@ footer {
   color: #888;
   font-size: 0.9rem;
 }
+
